@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @solomedia-account
+- 👋 Hi, I’m Solomon Awah
 - 👀 I’m interested in Technology and Media
 - 🌱 I’m currently learning Programmng, Broadcasting & Entrepreneurship
-- 💞️ I’m looking to collaborate on Software and Business Development 
+- 💞️ I’m looking to collaborate on Software and Business Developmentprojects 
 - 📫 How to reach me solomediaaf@gmail.com
 
 <!---
