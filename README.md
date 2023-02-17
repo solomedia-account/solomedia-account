@@ -1,8 +1,10 @@
+[![Solomons Github Stats](https://github-readme-stats.vercel.app/api?username=solomedia-account)](https://github.com/solomedia-account/README.md)
 - 👋 Hi, I’m Solomon Awah
 - 👀 I’m interested in Technology and Media
 - 🌱 I’m currently learning Programmng, Broadcasting & Entrepreneurship
 - 💞️ I’m looking to collaborate on Software and Business Developmentprojects 
 - 📫 How to reach me solomediaaf@gmail.com
+
 
 <!---
 solomedia-account/solomedia-account is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
