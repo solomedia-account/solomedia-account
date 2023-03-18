@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Programmng, Broadcasting & Entrepreneurship
 - 💞️ I’m looking to collaborate on Software and Business Developmentprojects 
 - 📫 How to reach me solomediaaf@gmail.com
-
+SUPPORT MY WORKS 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U2ITMFW)
 
 <!---
 solomedia-account/solomedia-account is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
